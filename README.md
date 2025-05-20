@@ -1,4 +1,4 @@
-You need to plug the JavaRush game-engine.
+You need to plug the JavaRush game engine.
 
 IntelliJ IDEA:
 
